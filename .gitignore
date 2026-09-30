@@ -1,0 +1,6 @@
+# Temporary local checks and preview artifacts
+work/
+
+# Operating-system files
+Thumbs.db
+.DS_Store

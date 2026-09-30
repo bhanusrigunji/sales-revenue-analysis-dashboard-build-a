@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "work": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  },
+  "extensions": {
+    "recommendations": [
+      "ritwickdey.liveserver"
+    ]
+  }
+}
